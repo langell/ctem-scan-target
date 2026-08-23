@@ -1,0 +1,12 @@
+{
+  "name": "ctem-scan-target",
+  "version": "1.0.0",
+  "description": "Deliberately outdated dependency set used as a scan target for the CTEM platform's SCA scanner. Do not deploy.",
+  "private": true,
+  "dependencies": {
+    "express": "4.17.1",
+    "qs": "6.7.0",
+    "lodash": "4.17.15",
+    "minimist": "1.2.5"
+  }
+}
